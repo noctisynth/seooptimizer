@@ -1,0 +1,31 @@
+Copyright©该软件版权由中国秦川联盟网络安全部所有
+
+本软件为广大站长为增加百度点击量的工具
++++++++++
+=========
+使用说明：
+1. 安装最新版本的Chrome（谷歌浏览器），如果已经下载安装跳过本步骤。
+中国秦川联盟镜像下载地址：
+https://www.qinnational.xyz/download/download.html?filename=chrome
+官方下载地址：
+https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B298B30
+如果以上两个链接失效，下面这个是官方主页，速度略慢：
+https://www.google.cn/chrome/
+
+2. 打开Chrome，在上方URL框输入：chrome://version/
+找到第一行Google Chrome冒号后面的版本号
+
+3. 前往淘宝ChromeDriver镜像：
+http://npm.taobao.org/mirrors/chromedriver/
+并下载对应版本的Chrome（例如chromedriver_win32.zip）
+
+注：本程序Chrome默认版本为76.0.3809.126，
+如果您的Chrome版本等于或接近于本版本，可以直接跳到第5步。
+
+4. 将下载并解压好的ChromeDriver放置
+在本程序安装目录下覆盖原有的ChromeDriver
+
+5. 打开主程序，输入您的站点的关键词，点击开始，那么，见证奇迹的时刻开始了！
+
+
+
