@@ -1,0 +1,23 @@
+# Ignore log files
+*.log
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore environment variables
+.env
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore coverage reports
+coverage/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore egg infos
+*.egg-info/
